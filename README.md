@@ -18,7 +18,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 
 - Below is my Flix app run on my personal iPhone.
-  - Please note that, at the end of the recording, I also showcased how the app looks on a landscape orientation. 
 
 <img src="http://g.recordit.co/Rwk4mWgCO1.gif" width=250><br>
 
@@ -28,7 +27,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 
 ### Notes
-- I updated my Auto Layout and added new Auto Layout constraints for the grid layout. The app works well for different devices and in different orientations; the gifs I created show this.  
+- I updated my Auto Layout constraints to be more precise and added new Auto Layout constraints for the grid layout. The app works well for different devices and in different orientations.  
 - I was able to make the same movie details screen for the superhero movies. Both details screens (the one for the general movies and the one for the superhero movies) have an identical layout for neatness. 
 
 ---
@@ -50,7 +49,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 - Below is my Flix app walkthrough through the Xcode simulator.
 
-<img src="http://g.recordit.co/721qzbHBpf.gif" width=250><br>
+<img src="http://g.recordit.co/OvvClPlCiW.gif" width=250><br>
 
 - Below is my Flix app run on my personal iPhone (which was in Dark Mode). 
 
