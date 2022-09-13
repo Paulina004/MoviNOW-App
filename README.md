@@ -56,5 +56,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/2itQSwbI7S.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
 - For the bonus portion of the assignment, I had some trouble with Auto Layout at first--adding layout constraints on the items within the table cell in the storyboard was giving me some difficulties and gave me quite a few errors at first. Eventually I was able to get my app to where it is now and get rid of all of the Auto Layout erros, and I am happy with it. Despite this, I want to do more research about Auto Layout for more complex apps that we will be building in the future. 
