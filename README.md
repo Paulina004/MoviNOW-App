@@ -1,12 +1,12 @@
-# Flix
+# MoviNOW
 
 > [!IMPORTANT] 
 > This project was created for learning purposes only. ***Please refrain from copying, sharing, and/or using any of my work.*** Thank you.
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+MoviNOW is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 
-## Flix Part 2
+## MoviNOW Part 2
 
 ### User Stories
 
@@ -19,11 +19,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-- Below is my Flix app walkthrough through the Xcode simulator.
+- Below is my MoviNOW app walkthrough through the Xcode simulator.
 
 <img src="http://g.recordit.co/zmCTfBI2S8.gif" width=250><br>
 
-- Below is my Flix app run on my personal iPhone. 
+- Below is my MoviNOW app run on my personal iPhone. 
 
 <img src="http://g.recordit.co/OvvClPlCiW.gif" width=250><br>
 
@@ -34,7 +34,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ---
 
-## Flix Part 1
+## MoviNOW Part 1
 
 ### User Stories
 
@@ -49,11 +49,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-- Below is my Flix app walkthrough through the Xcode simulator.
+- Below is my MoviNOW app walkthrough through the Xcode simulator.
 
 <img src="http://g.recordit.co/GRnz6faNHx.gif" width=250><br>
 
-- Below is my Flix app run on my personal iPhone (which was in Dark Mode). 
+- Below is my MoviNOW app run on my personal iPhone (which was in Dark Mode). 
 
 <img src="http://g.recordit.co/2itQSwbI7S.gif" width=250><br>
 
